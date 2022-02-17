@@ -24,7 +24,7 @@ export const Navbar = () => {
       <HStack spacing={{ base: 0, sm: 4 }}>
         <Box w={10}>{colorMode === "dark" ? <LogoWhite /> : <LogoColor />}</Box>
         <Heading fontSize={"2xl"} fontWeight={"bold"} display={{ base: "none", sm: "block" }}>
-          LIGHTNING SHARE
+          sp0oky share
         </Heading>
       </HStack>
       <IconButton
