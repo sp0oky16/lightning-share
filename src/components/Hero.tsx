@@ -14,7 +14,7 @@ export const Hero: React.FC = () => {
       <Box p={8}>
         <VStack spacing={4}>
           <Heading as={"h1"} fontSize={"6xl"} color={"green.500"} fontWeight={"bold"} lineHeight={"none"}>
-            LIGHTNING SHARE
+            sp0oky share
           </Heading>
           <Heading as={"h2"} fontSize={"3xl"} fontWeight={"normal"}>
             send files to other devices,{" "}
