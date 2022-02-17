@@ -1,8 +1,8 @@
 export default {
-  name: "LIGHTNING SHARE",
-  short_name: "LIGHTNING",
-  theme_color: "#22C55E",
-  background_color: "#F3F4F6",
+  name: "sp0oky share",
+  short_name: "sp0oky share",
+  theme_color: "#030303",
+  background_color: "#fffff",
   display: "minimal-ui",
   orientation: "portrait",
   scope: "/",
