@@ -18,7 +18,7 @@ export const Footer = () => (
       <Box w={5} color={"rose.600"}>
         <HeartIcon />
       </Box>
-      <Text>by Cole Gawin</Text>
+      <Text>by sp0oky#9999</Text>
     </HStack>
     {/*<Text display={{ base: "none", sm: "block" }}>•</Text>
     <Button as={"a"} variant={"link"} href={"https://projects.colegaw.in/lighting-share"} target={"_blank"}>
